@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Editora Globo
+- 🔭 I’m currently working on Tivix
 - 🌱 I’m currently learning 
   - Clean code
   - Data-structure
