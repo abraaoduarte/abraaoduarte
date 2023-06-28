@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abraao.n.duarte@gmail.com)
 [![Instagram: abraaoduarte](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abraaoduarte/)
 
-My name is Abraão Duarte. I'm a Software Engineer from Brazil, currently working for Kellton on multiple projects. Currently, I'm more focused on frontend using javascript/Typescript with React, React Native, and Next.js, I also have a background in the backend using Node.js (express, koa), Python (Django), and PHP (Laravel).
+My name is Abraão Duarte. I'm a Software Engineer from Brazil, currently working for Kellton on multiple projects. Currently, I'm more focused on frontend using Javascript/Typescript with React, React Native, and Next.js, I also have a background in backend using Node.js (express, koa), Python (Django), and PHP (Laravel).
 
 I'm a developer since 2014, I have been working with Software Developer since then, and I love to learn new stuff and try new technologies.
 
