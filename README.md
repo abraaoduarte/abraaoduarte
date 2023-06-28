@@ -14,7 +14,7 @@ In my free time, I like to watch series, and anime, play soccer, and cycling
 
 ## ⚡ Fun facts
 
-- I like to study reformed theology and read books
+- I like to study reformed theology and read books about it
 
 # 💻 Tech Stack:
 <p>
