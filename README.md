@@ -12,10 +12,6 @@ I'm a developer since 2014, I have been working with Software Developer since th
 In my free time, I like to watch series, and anime, play soccer, and cycling
 
 
-## ⚡ Fun facts
-
-- I like to study reformed theology and read books about it
-
 # 💻 Tech Stack:
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
